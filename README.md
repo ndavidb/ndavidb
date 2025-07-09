@@ -3,9 +3,9 @@
 
 **3+ years** building enterprise solutions for finance, accounting, operations, and marketing departments that deliver measurable business impact.
 
-### 🚀 **What Sets Me Apart**
-- ⚡ **Business Impact:** Built web solutions, automations, and AI integrations, reducing processing time and manual handling processes from 50+ hours to less than 5 hours in multiple projects.
-- 🏢 **Enterprise Scale:** Integrated dozens of logistics, financial, and operational APIs serving 10,000+ users
+### **What Sets Me Apart**
+- **Business Impact:** Built web solutions, automations, and AI integrations, reducing processing time and manual handling processes from 50+ hours to less than 5 hours in multiple projects.
+- **Enterprise Scale:** Integrated dozens of logistics, financial, and operational APIs serving 10,000+ users
 
 ### 💻 **Tech Stack**
 **Backend:** .NET • C# • Python • RESTful APIs   
