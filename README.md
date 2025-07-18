@@ -1,5 +1,5 @@
 # David Bello 👋
-## Certified Azure Software Engineer
+## Software Engineer | Certified Azure Developer | .NET | Python | React
 
 **3+ years** building enterprise solutions for finance, accounting, operations, and marketing departments that deliver measurable business impact.
 
